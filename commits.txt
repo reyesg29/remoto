@@ -1,1 +1,12 @@
-Aqui vamos a poner los commits de mi repositorio local
+8dca7cd Merge branch 'main' of https://github.com/reyesg29/remoto
+f9534b7 Create commit.txt
+ef4eead Initial commit
+c9525bc  conflicto arreglado bug
+7d70d82 modificacion
+a1eab26 arreglo de conflicto
+3fbcad2 modificacion en main a jesus
+ad2c411 modificacion main
+2ffc2c0 modificacion de parametros
+96492f1 modificacion a operations
+3dcf66e Segundo commit
+30f7cee primer commit
